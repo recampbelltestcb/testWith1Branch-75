@@ -1,0 +1,2 @@
+node {		echo 'Hello World'
+	}
